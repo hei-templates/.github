@@ -23,7 +23,7 @@ Here are the repositories available in this organization:
 - [hevs-latextemplate-thesis](https://github.com/hei-templates/hevs-latextemplate-thesis): This repository contains the inofficial latex templates for the HEI-Vs Thesis.
 
 ### Presentation Slide Templates
-- [hevs-tysttemplate-slides-polylux](https://github.com/hei-templates/hevs-typsttemplate-slides-polylux): This repository contains a typst template for slides created by Klagarge
+- [hevs-tysttemplate-slides-polylux](https://github.com/hei-templates/hevs-typsttemplate-slides-polylux): This repository contains a typst template for slides created by [Klagarge](https://github.com/Klagarge)
 
 ## Contributing
 
