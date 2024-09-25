@@ -5,14 +5,13 @@
   HEI-Vs Engineering School
   <br>
 </h1>
+
+Welcome to the GitHub organization for the [HEI-Vs Engineering School](https://hevs.ch/synd) in Sion, Switzerland. This organization is dedicated to general templates repositories.
 <h1 align="center">
   <br>
   <img src="./../img/synd-light.png" alt="Industrial Systems Logo" width="350">
   <br>
 </h1>
-
-
-Welcome to the GitHub organization for the [HEI-Vs Engineering School](https://hevs.ch/synd) in Sion, Switzerland. This organization is dedicated to general templates repositories.
 
 ## Repositories
 
