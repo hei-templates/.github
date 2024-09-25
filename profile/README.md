@@ -2,7 +2,7 @@
   <br>
   <img src="./../img/hei-en.png" alt="HEI-Vs Logo" width="350">
   <br>
-  HEI-Vs Engineering School - DiD Digital Design
+  HEI-Vs Engineering School
   <br>
 </h1>
 <h1 align="center">
