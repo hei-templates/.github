@@ -19,11 +19,11 @@ Welcome to the GitHub organization for the [HEI-Vs Engineering School](https://h
 Here are the repositories available in this organization:
 
 ### Thesis Templates
-- [hevs-typsttemplate-thesis](https://github.com/hei-templates/hevs-typsttemplate-thesis): This repository contains the inofficial typst templates for the HEI-Vs Thesis.
-- [hevs-latextemplate-thesis](https://github.com/hei-templates/hevs-latextemplate-thesis): This repository contains the inofficial latex templates for the HEI-Vs Thesis.
+- [hei-typst-thesis](https://github.com/hei-templates/hei-typst-thesis): This repository contains the inofficial typst templates for the HEI-Vs Thesis.
+- [hei-latex-thesis](https://github.com/hei-templates/hei-latex-thesis): This repository contains the inofficial latex templates for the HEI-Vs Thesis.
 
 ### Presentation Slide Templates
-- [hevs-tysttemplate-slides-polylux](https://github.com/hei-templates/hevs-typsttemplate-slides-polylux): This repository contains a typst template for slides created by [Klagarge](https://github.com/Klagarge)
+- [hei-typst-slides-polylux](https://github.com/hei-templates/hei-typst-slides-polylux): This repository contains a typst template for slides created by [Klagarge](https://github.com/Klagarge)
 
 ## Contributing
 
