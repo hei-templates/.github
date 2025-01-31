@@ -28,6 +28,9 @@ Here are the repositories available in this organization:
 ### Presentation Slide Templates
 - [hei-typst-slides-polylux](https://github.com/hei-templates/hei-typst-slides-polylux): This repository contains a typst template for slides created by [Klagarge](https://github.com/Klagarge)
 
+### Logos
+- [hei-synd-logos](https://github.com/hei-templates/hei-synd-logos): This repository contains a collection of logos for either HEI-Vs or Synd
+
 ## Contributing
 
 We welcome contributions from students and faculty members of HEI-Vs Engineering School. If you would like to contribute to any of the repositories in this organization, please follow these steps:
